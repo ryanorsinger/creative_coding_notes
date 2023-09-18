@@ -50,4 +50,4 @@
 
 ## Crazy Ideas:
 - Port Hydra to Glitch.com to make easily remixable and also fork/expand the synthesis engine?
-- Make Tidal Cycles available in the browser
+- Make Tidal Cycles available in the browser? Is there already something in this space?
