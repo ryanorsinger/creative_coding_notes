@@ -16,7 +16,7 @@
 ## Selected Readings and overviews
 - ["On The Fly" Documentary](https://www.youtube.com/watch?v=ntFMuvv2-TY) about live, creative coding
 - https://thebookofshaders.com/
--
+- Overview of Softare/Coding concepts https://natureofcode.com/book/preface/
 
 ## Gizmos
 - https://monome.org/
